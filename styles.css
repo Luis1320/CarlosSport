@@ -47,6 +47,11 @@
     justify-content: center;
     align-items: center;
 }
+.flex-container-ofertas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .flex-item{
     height: 400px;
     width: 250px;
